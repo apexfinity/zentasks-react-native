@@ -1,0 +1,8 @@
+{
+  "name": "asd",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "4afbce3e"
+}
