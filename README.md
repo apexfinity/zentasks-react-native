@@ -17,4 +17,5 @@ ZenTasks comes with an intuitive set of tools:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/YourUsername/zentasks.git
+   git clone https://github.com/apexfinity/zentasks-react-native
+   ```
