@@ -10,7 +10,7 @@ ZenTasks comes with an intuitive set of tools:
 
 - **✅ To-Do List**: Organize your tasks with a simple, yet powerful to-do list. Create, prioritize, and manage your daily tasks with a few taps. ZenTasks is here to help you stay on top of your game.
 
-- **⏱ Focus Timer**: Inspired by the Pomodoro Technique, our focus timer helps you maintain a healthy work rhythm. Break down your work into focused intervals followed by short breaks to maximize productivity and prevent burnout.
+- **⏱ Focus Timer**:  The focus timer helps you maintain a healthy work rhythm. Break down your work into focused intervals followed by short breaks to maximize productivity and prevent burnout.
 
 ## 🚀 Getting Started
 
